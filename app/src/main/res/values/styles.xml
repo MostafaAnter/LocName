@@ -14,7 +14,7 @@
 
     <style name="MaterialSearchViewStyle">
         <!-- Background for the search bar -->
-        <item name="searchBackground">@android:color/white</item>
+        <item name="searchBackground">@color/white</item>
 
         <!-- Change voice icon -->
         <item name="searchVoiceIcon">@drawable/ic_action_voice_search</item>
@@ -32,7 +32,7 @@
         <item name="searchSuggestionBackground">@android:color/white</item>
 
         <!-- Change text color for edit text. This will also be the color of the cursor -->
-        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorPrimary</item>
 
         <!-- Change hint text color for edit text -->
         <item name="android:textColorHint">@color/half_black</item>
@@ -40,5 +40,7 @@
         <!-- Hint for edit text -->
         <item name="android:hint">@string/search_hint</item>
     </style>
+
+
 
 </resources>

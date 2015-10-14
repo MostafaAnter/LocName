@@ -16,6 +16,16 @@
         app:showAsAction="always" />
 
 
+
+    <item android:id="@+id/action_contact_us" android:title="Contact Us"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_about_us" android:title="About Us"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_see_tutorial" android:title="See Tutorial"
+        android:orderInCategory="100" app:showAsAction="never" />
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_logout" android:title="Logout"
+        android:orderInCategory="100" app:showAsAction="never" />
+
 </menu>
