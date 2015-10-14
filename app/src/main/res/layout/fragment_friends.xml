@@ -20,7 +20,7 @@
         android:layout_alignParentRight="true"
         fab:fab_icon="@drawable/ic_action_addf"
         fab:fab_colorNormal="@color/colorPrimary"
-        fab:fab_colorPressed="@color/pink_pressed"
+        fab:fab_colorPressed="@color/blue_semi_transparent_pressed"
         />
 
 </RelativeLayout>
